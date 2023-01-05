@@ -9,7 +9,9 @@ sites:
   - name: YouTvRs
     url: https://youtvrs.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-
+  - name: CITV
+    url: https://cercoiltuovolto.it
+    __dangerous__body_down_if_text_missing: "birbante che sei"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
