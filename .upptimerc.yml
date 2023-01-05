@@ -3,381 +3,381 @@ owner: PrjAdv # Your GitHub organization or username, where this repository live
 repo: prjuptime # The name of this repository
 
 sites:
-- name: INTERNAPOLI
-url: https://internapoli.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: ITALIAFEED
-url: https://italiafeed.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: OCCHIO NOTIZIE
-url: https://occhionotizie.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: NAPOLI PIU
-url: https://napolipiu.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: STRILL
-url: https://strill.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: EMOZIONI FEED
-url: https://emozionifeed.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: LO STADIUM
-url: https://lostadium.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: RIETILIFE
-url: https://rietilife.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: TELE CLUB ITALIA
-url: https://teleclubitalia.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: HOW TO DO FOR
-url: https://howtodofor.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: GIUSEPPE PORRO
-url: https://giuseppeporro.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: MONDO TV 24
-url: https://mondotv24.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: ZAZOOM
-url: https://zazoom.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: RADIO ROSSO NERA
-url: https://radiorossonera.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: MILAN WORLD
-url: https://milanworld.net
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: TUTTO CALCIATORI
-url: https://tuttocalciatori.net
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: LIFELIVE
-url: https://lifelive.eu
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: INTER-NEWS
-url: https://inter-news.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: IL DISPACCIO
-url: https://ildispaccio.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: VENETOGOL
-url: https://venetogol.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: FORZA AZZURRI
-url: https://forzazzurri.net
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: E LO SAPEVI CHE
-url: https://elosapeviche.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: 1 FEED
-url: https://1feed.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: WIKITESTI
-url: https://wikitesti.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: PASSIONECALCIO24
-url: https://passionecalcio24.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: LA PRESSA
-url: https://lapressa.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: ECO DELLA LOCRIDE
-url: https://ecodellalocride.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: IL GIARDINO DEGLI ILLUMINATI
-url: https://ilgiardinodegliilluminati.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: YOUTVRS
-url: https://youtvrs.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: FRIULIGOL
-url: https://friuligol.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: TORRESETTE
-url: https://torresette.news
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: METEO PUGLIA
-url: https://meteopuglia.org
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: GAZZETTA JONICA
-url: https://gazzettajonica.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: LO STRILLONE NEWS
-url: https://lostrillonenews.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: XQUIZ
-url: https://xquiz.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: IL PRIMATO NAZIONALE
-url: https://ilprimatonazionale.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: DOODLES
-url: https://doodles.link
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: MONTI PRENSTINI
-url: https://montiprenestini.info
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: TERMOMETRO POLITICO
-url: https://termometropolitico.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: TOSCANAGOL
-url: https://toscanagol.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: LA-NOTIZIA.NET
-url: https://la-notizia.net
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: TESTI TRADOTTI WIKITESTI
-url: https://testitradotti.wikitesti.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: COME RISPARMIO SOLDI
-url: https://comerisparmiosoldi.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: H24 NOTIZIE
-url: https://h24notizie.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: 41 ESIMO PARALLELO
-url: https://41esimoparallelo.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: NAPOLITAN
-url: https://napolitan.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: LETTERA EMME
-url: https://letteraemme.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: GOLDWEBTV
-url: https://goldwebtv.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: TELEMIA
-url: https://telemia.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: GIOCOINDIE
-url: https://giocoindie.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: OROSCOPO DI OGGI E DOMANI
-url: https://oroscopodioggiedomani.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: MILAN NIGHT
-url: https://milannight.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: B 1897
-url: https://b1897.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: IL GIORNALE DI TRANI
-url: https://ilgiornaleditrani.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: NUOVO SUD
-url: https://nuovosud.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: RASSEGNE ITALIA
-url: https://rassegneitalia.info
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: SARDEGNA REPORTER
-url: https://sardegnareporter.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: STYLO24
-url: https://stylo24.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: MESSINA SPORTIVA
-url: https://messinasportiva.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: EMILIAGOL
-url: https://emiliagol.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: VERY INUTIL PEOPLE
-url: https://veryinutilpeople.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: IL NAPOLI ON LINE
-url: https://ilnapolionline.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: INFORMA-PRESS
-url: https://informa-press.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: GROSSETOSPORT
-url: https://grossetosport.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name:PROVE INVALSI
-url: https://proveinvalsi.net
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name:TOSCANA OGGI
-url: https://toscanaoggi.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name:TRA GENIO E FOLLIA
-url: https://tragenioefollia.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: NORD MILANO 24
-url: https://nordmilano24.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: BONCULTURE
-url: https://bonculture.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: TUTTO REGGIANA
-url: https://tuttoreggiana.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: LAZIO NASCOSTO
-url: https://lazionascosto.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: SENIGALLIA NOTIZIE
-url: https://senigallianotizie.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: FASHION TIMES
-url: https://fashiontimes.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: ERRE EMME NEWS
-url: https://erreemmenews.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: VIAGGIAMO
-url: https://viaggiamo.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: LA NOTIZIA SPORTIVA
-url: https://lanotiziasportiva.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: STADIO RADIO
-url: https://stadioradio.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: GAZZETTA DELLA SPEZIA
-url: https://gazzettadellaspezia.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: LO STATALE JONICO
-url: https://lostatalejonico.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: LA TORRE 1905
-url: https://latorre1905.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: SIKILY NEWS
-url: https://sikilynews.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: FUT18 ITALIA
-url: https://fut18italia.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: SICILIANS
-url: https://sicilians.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: vastoweb
-url: https://vastoweb.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: termolionline
-url: https://termolionline.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: TERNILIFE
-url: https://ternilife.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: SPORTDELSUD
-url: https://sportdelsud.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: ITALIALIFE24
-url: https://italialife24.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: ITAGNOL
-url: https://itagnol.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: LA MILANO
-url: https://lamilano.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: MILANO DA VEDERE
-url: https://milanodavedere.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: SENZA LINEA
-url: https://senzalinea.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: ZERKALO SPETTACOLO
-url: https://zerkalospettacolo.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: ROMA FOREVER
-url: https://romaforever.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: CASA MAGAZINE
-url: https://casamagazine.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: SETTE NEWS
-url: https://settenews.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: SPORT MAGAZINE
-url: https://sportmagazine.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: TECNOGLAXY
-url: https://tecnogalaxy.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: IL FARO ONLINE
-url: https://ilfaroonline.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: MAMME MAGAZINE
-url: https://mammemagazine.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: GENIUS WELLNESS
-url: https://geniuswellness.net
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: IL COINQUILINO DI EMME
-url: https://ilcoinquilinodiemme.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: BLOG SOCIAL TV
-url: https://blogsocialtv.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: FUORI TRAIETTORIA
-url: https://fuoritraiettoria.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: casa napoli
-url: https://casanapoli.net
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: NEWGO
-url: https://newsgo.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: ICONA METEO
-url: https://iconameteo.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: MARCHE IN GOL
-url: https://marcheingol.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: ICONA CLIMA
-url: https://iconaclima.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: CALCIO PUGLIESE
-url: https://calciopugliese.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: VOCE.CO.ìM.VE
-url: https://voce.com.ve
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: TUTTO SPAL
-url: https://tuttospal.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: VALLE DEI SOGNI
-url: https://valledeisogni.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: MAREONLINE
-url: https://mareonline.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: ECODELCINEMA
-url: https://ecodelcinema.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: INTERPRETA SOGNO
-url: https://interpretasogno.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: TUTTO MANTOVA
-url: https://tuttomantova.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: GENIUS HOROSCOPE
-url: https://geniushoroscope.com
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: NOVECENTO LETTERARIO
-url: https://900letterario.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: CAMBIO CLIMA
-url: https://cambioclima.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: SYRUS
-url: https://syrus.academy
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: BAZZING
-url: https://bazzing.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: METEO CONENNA
-url: https://meteoconenna.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: MAFREGATE
-url: https://mafregate.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-- name: ACCADEORA
-url: https://accadeora.it
-__dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: INTERNAPOLI
+    url: https://internapoli.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: ITALIAFEED
+    url: https://italiafeed.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: OCCHIO NOTIZIE
+    url: https://occhionotizie.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: NAPOLI PIU
+    url: https://napolipiu.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: STRILL
+    url: https://strill.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: EMOZIONI FEED
+    url: https://emozionifeed.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: LO STADIUM
+    url: https://lostadium.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: RIETILIFE
+    url: https://rietilife.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: TELE CLUB ITALIA
+    url: https://teleclubitalia.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: HOW TO DO FOR
+    url: https://howtodofor.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: GIUSEPPE PORRO
+    url: https://giuseppeporro.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: MONDO TV 24
+    url: https://mondotv24.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: ZAZOOM
+    url: https://zazoom.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: RADIO ROSSO NERA
+    url: https://radiorossonera.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: MILAN WORLD
+    url: https://milanworld.net
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: TUTTO CALCIATORI
+    url: https://tuttocalciatori.net
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: LIFELIVE
+    url: https://lifelive.eu
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: INTER-NEWS
+    url: https://inter-news.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: IL DISPACCIO
+    url: https://ildispaccio.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: VENETOGOL
+    url: https://venetogol.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: FORZA AZZURRI
+    url: https://forzazzurri.net
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: E LO SAPEVI CHE
+    url: https://elosapeviche.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: 1 FEED
+    url: https://1feed.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: WIKITESTI
+    url: https://wikitesti.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: PASSIONECALCIO24
+    url: https://passionecalcio24.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: LA PRESSA
+    url: https://lapressa.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: ECO DELLA LOCRIDE
+    url: https://ecodellalocride.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: IL GIARDINO DEGLI ILLUMINATI
+    url: https://ilgiardinodegliilluminati.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: YOUTVRS
+    url: https://youtvrs.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: FRIULIGOL
+    url: https://friuligol.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: TORRESETTE
+    url: https://torresette.news
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: METEO PUGLIA
+    url: https://meteopuglia.org
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: GAZZETTA JONICA
+    url: https://gazzettajonica.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: LO STRILLONE NEWS
+    url: https://lostrillonenews.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: XQUIZ
+    url: https://xquiz.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: IL PRIMATO NAZIONALE
+    url: https://ilprimatonazionale.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: DOODLES
+    url: https://doodles.link
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: MONTI PRENSTINI
+    url: https://montiprenestini.info
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: TERMOMETRO POLITICO
+    url: https://termometropolitico.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: TOSCANAGOL
+    url: https://toscanagol.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: LA-NOTIZIA.NET
+    url: https://la-notizia.net
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: TESTI TRADOTTI WIKITESTI
+    url: https://testitradotti.wikitesti.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: COME RISPARMIO SOLDI
+    url: https://comerisparmiosoldi.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: H24 NOTIZIE
+    url: https://h24notizie.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: 41 ESIMO PARALLELO
+    url: https://41esimoparallelo.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: NAPOLITAN
+    url: https://napolitan.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: LETTERA EMME
+    url: https://letteraemme.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: GOLDWEBTV
+    url: https://goldwebtv.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: TELEMIA
+    url: https://telemia.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: GIOCOINDIE
+    url: https://giocoindie.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: OROSCOPO DI OGGI E DOMANI
+    url: https://oroscopodioggiedomani.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: MILAN NIGHT
+    url: https://milannight.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: B 1897
+    url: https://b1897.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: IL GIORNALE DI TRANI
+    url: https://ilgiornaleditrani.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: NUOVO SUD
+    url: https://nuovosud.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: RASSEGNE ITALIA
+    url: https://rassegneitalia.info
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: SARDEGNA REPORTER
+    url: https://sardegnareporter.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: STYLO24
+    url: https://stylo24.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: MESSINA SPORTIVA
+    url: https://messinasportiva.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: EMILIAGOL
+    url: https://emiliagol.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: VERY INUTIL PEOPLE
+    url: https://veryinutilpeople.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: IL NAPOLI ON LINE
+    url: https://ilnapolionline.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: INFORMA-PRESS
+    url: https://informa-press.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: GROSSETOSPORT
+    url: https://grossetosport.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: PROVE INVALSI
+    url: https://proveinvalsi.net
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: TOSCANA OGGI
+    url: https://toscanaoggi.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: TRA GENIO E FOLLIA
+    url: https://tragenioefollia.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: NORD MILANO 24
+    url: https://nordmilano24.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: BONCULTURE
+    url: https://bonculture.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: TUTTO REGGIANA
+    url: https://tuttoreggiana.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: LAZIO NASCOSTO
+    url: https://lazionascosto.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: SENIGALLIA NOTIZIE
+    url: https://senigallianotizie.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: FASHION TIMES
+    url: https://fashiontimes.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: ERRE EMME NEWS
+    url: https://erreemmenews.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: VIAGGIAMO
+    url: https://viaggiamo.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: LA NOTIZIA SPORTIVA
+    url: https://lanotiziasportiva.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: STADIO RADIO
+    url: https://stadioradio.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: GAZZETTA DELLA SPEZIA
+    url: https://gazzettadellaspezia.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: LO STATALE JONICO
+    url: https://lostatalejonico.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: LA TORRE 1905
+    url: https://latorre1905.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: SIKILY NEWS
+    url: https://sikilynews.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: FUT18 ITALIA
+    url: https://fut18italia.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: SICILIANS
+    url: https://sicilians.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: vastoweb
+    url: https://vastoweb.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: termolionline
+    url: https://termolionline.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: TERNILIFE
+    url: https://ternilife.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: SPORTDELSUD
+    url: https://sportdelsud.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: ITALIALIFE24
+    url: https://italialife24.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: ITAGNOL
+    url: https://itagnol.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: LA MILANO
+    url: https://lamilano.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: MILANO DA VEDERE
+    url: https://milanodavedere.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: SENZA LINEA
+    url: https://senzalinea.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: ZERKALO SPETTACOLO
+    url: https://zerkalospettacolo.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: ROMA FOREVER
+    url: https://romaforever.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: CASA MAGAZINE
+    url: https://casamagazine.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: SETTE NEWS
+    url: https://settenews.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: SPORT MAGAZINE
+    url: https://sportmagazine.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: TECNOGLAXY
+    url: https://tecnogalaxy.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: IL FARO ONLINE
+    url: https://ilfaroonline.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: MAMME MAGAZINE
+    url: https://mammemagazine.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: GENIUS WELLNESS
+    url: https://geniuswellness.net
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: IL COINQUILINO DI EMME
+    url: https://ilcoinquilinodiemme.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: BLOG SOCIAL TV
+    url: https://blogsocialtv.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: FUORI TRAIETTORIA
+    url: https://fuoritraiettoria.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: casa napoli
+    url: https://casanapoli.net
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: NEWGO
+    url: https://newsgo.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: ICONA METEO
+    url: https://iconameteo.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: MARCHE IN GOL
+    url: https://marcheingol.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: ICONA CLIMA
+    url: https://iconaclima.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: CALCIO PUGLIESE
+    url: https://calciopugliese.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: VOCE.CO.ìM.VE
+    url: https://voce.com.ve
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: TUTTO SPAL
+    url: https://tuttospal.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: VALLE DEI SOGNI
+    url: https://valledeisogni.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: MAREONLINE
+    url: https://mareonline.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: ECODELCINEMA
+    url: https://ecodelcinema.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: INTERPRETA SOGNO
+    url: https://interpretasogno.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: TUTTO MANTOVA
+    url: https://tuttomantova.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: GENIUS HOROSCOPE
+    url: https://geniushoroscope.com
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: NOVECENTO LETTERARIO
+    url: https://900letterario.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: CAMBIO CLIMA
+    url: https://cambioclima.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: SYRUS
+    url: https://syrus.academy
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: BAZZING
+    url: https://bazzing.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: METEO CONENNA
+    url: https://meteoconenna.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: MAFREGATE
+    url: https://mafregate.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+  - name: ACCADEORA
+    url: https://accadeora.it
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
