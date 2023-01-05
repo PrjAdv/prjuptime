@@ -4,7 +4,7 @@ repo: prjuptime # The name of this repository
 
 sites:
   - name: INTERNAPOLI
-    url: https://internapoli.it
+    url: https://www.internapoli.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: ITALIAFEED
     url: https://italiafeed.com
@@ -123,9 +123,6 @@ sites:
   - name: TOSCANAGOL
     url: https://toscanagol.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-  - name: LA-NOTIZIA.NET
-    url: https://la-notizia.net
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: TESTI TRADOTTI WIKITESTI
     url: https://testitradotti.wikitesti.com
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
@@ -133,10 +130,7 @@ sites:
     url: https://comerisparmiosoldi.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: H24 NOTIZIE
-    url: https://h24notizie.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-  - name: 41 ESIMO PARALLELO
-    url: https://41esimoparallelo.it
+    url: https://www.h24notizie.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: NAPOLITAN
     url: https://napolitan.it
@@ -145,16 +139,13 @@ sites:
     url: https://letteraemme.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: GOLDWEBTV
-    url: https://goldwebtv.it
+    url: https://www.goldwebtv.it/video-caserta-virus-sinciziale-ha-riempito-reparto-pediatria-ospedale-parla-il-primario-prof-nunziata.html
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: TELEMIA
-    url: https://telemia.it
+    url: https://www.telemia.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: GIOCOINDIE
     url: https://giocoindie.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-  - name: OROSCOPO DI OGGI E DOMANI
-    url: https://oroscopodioggiedomani.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: MILAN NIGHT
     url: https://milannight.com
@@ -184,10 +175,10 @@ sites:
     url: https://emiliagol.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: VERY INUTIL PEOPLE
-    url: https://veryinutilpeople.it
+    url: https://www.veryinutilpeople.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: IL NAPOLI ON LINE
-    url: https://ilnapolionline.com
+    url: https://www.ilnapolionline.com
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: INFORMA-PRESS
     url: https://informa-press.it
@@ -259,7 +250,7 @@ sites:
     url: https://termolionline.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: TERNILIFE
-    url: https://ternilife.it
+    url: https://www.ternilife.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: SPORTDELSUD
     url: https://sportdelsud.it
@@ -283,7 +274,7 @@ sites:
     url: https://zerkalospettacolo.com
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: ROMA FOREVER
-    url: https://romaforever.it
+    url: https://www.romaforever.it/news/?id=117085
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: CASA MAGAZINE
     url: https://casamagazine.it
@@ -322,28 +313,25 @@ sites:
     url: https://newsgo.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: ICONA METEO
-    url: https://iconameteo.it
+    url: https://www.iconameteo.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: MARCHE IN GOL
     url: https://marcheingol.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: ICONA CLIMA
-    url: https://iconaclima.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-  - name: CALCIO PUGLIESE
-    url: https://calciopugliese.it
+    url: https://www.iconaclima.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: VOCE.CO.ìM.VE
     url: https://voce.com.ve
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: TUTTO SPAL
-    url: https://tuttospal.it
+    url: https://www.tuttospal.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: VALLE DEI SOGNI
     url: https://valledeisogni.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: MAREONLINE
-    url: https://mareonline.it
+    url: https://www.mareonline.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: ECODELCINEMA
     url: https://ecodelcinema.com
@@ -352,7 +340,7 @@ sites:
     url: https://interpretasogno.com
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: TUTTO MANTOVA
-    url: https://tuttomantova.it
+    url: https://www.tuttomantova.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: GENIUS HOROSCOPE
     url: https://geniushoroscope.com
@@ -384,7 +372,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: prjadv.github.io/UpTime
   baseUrl: /prjuptime
-  logoUrl: https://images.adspro.it/logo-prj-110.svg
+  logoUrl: https://test.adspro.it/wp-content/uploads/2019/05/cropped-cropped-logo-prj.png
   name: Prj UpTime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
