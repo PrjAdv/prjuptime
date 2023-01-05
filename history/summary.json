@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/test.adspro.it.ico",
     "slug": "test-project-adv",
     "status": "up",
-    "uptime": "86.56%",
-    "uptimeDay": "86.56%",
-    "uptimeWeek": "86.56%",
-    "uptimeMonth": "86.56%",
-    "uptimeYear": "86.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1204,
     "timeDay": 1204,
     "timeWeek": 1204,
     "timeMonth": 1204,
     "timeYear": 1204,
-    "dailyMinutesDown": {
-      "2023-01-05": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
