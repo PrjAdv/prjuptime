@@ -7,8 +7,7 @@ sites:
     url: https://www.google.com
   - name: Test ProjectADV
     url: https://test.adspro.it
-    __dangerous__body_down_if_text_missing: "Everything is fast"
-    __dangerous__body_degraded_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
 
 
 status-website:
