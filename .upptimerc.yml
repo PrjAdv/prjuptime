@@ -4,7 +4,7 @@ repo: prjuptime # The name of this repository
 
 sites:
   - name: INTERNAPOLI
-    url: https://www.internapoli.it
+    url: https://internapoli.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: ITALIAFEED
     url: https://italiafeed.com
@@ -91,7 +91,7 @@ sites:
     url: https://youtvrs.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: FRIULIGOL
-    url: https://friuligol.it
+    url: https://www.friuligol.it
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
   - name: TORRESETTE
     url: https://torresette.news
