@@ -16,7 +16,7 @@
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2023-01-05": 449
+      "2023-01-05": 461
     }
   },
   {
@@ -162,7 +162,7 @@
     "timeMonth": 121,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2023-01-05": 449
+      "2023-01-05": 460
     }
   },
   {
@@ -224,19 +224,19 @@
     "url": "https://zazoom.it",
     "icon": "https://icons.duckduckgo.com/ip3/zazoom.it.ico",
     "slug": "zazoom",
-    "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.09%",
-    "uptimeYear": "99.09%",
-    "time": 2150,
-    "timeDay": 2150,
-    "timeWeek": 2150,
-    "timeMonth": 2150,
-    "timeYear": 2150,
+    "status": "up",
+    "uptime": "97.65%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "97.65%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "97.65%",
+    "time": 2239,
+    "timeDay": 2239,
+    "timeWeek": 2239,
+    "timeMonth": 2239,
+    "timeYear": 2239,
     "dailyMinutesDown": {
-      "2023-01-05": 4
+      "2023-01-05": 11
     }
   },
   {
@@ -526,7 +526,7 @@
     "timeMonth": 264,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2023-01-05": 448
+      "2023-01-05": 460
     }
   },
   {
@@ -535,11 +535,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.friuligol.it.ico",
     "slug": "friuligol",
     "status": "up",
-    "uptime": "63.83%",
-    "uptimeDay": "63.83%",
-    "uptimeWeek": "63.83%",
-    "uptimeMonth": "63.83%",
-    "uptimeYear": "63.83%",
+    "uptime": "64.75%",
+    "uptimeDay": "64.75%",
+    "uptimeWeek": "64.75%",
+    "uptimeMonth": "64.75%",
+    "uptimeYear": "64.75%",
     "time": 289,
     "timeDay": 289,
     "timeWeek": 289,
@@ -782,7 +782,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-05": 448
+      "2023-01-05": 459
     }
   },
   {
@@ -827,11 +827,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.goldwebtv.it.ico",
     "slug": "goldwebtv",
     "status": "up",
-    "uptime": "92.05%",
-    "uptimeDay": "92.05%",
-    "uptimeWeek": "92.05%",
-    "uptimeMonth": "92.05%",
-    "uptimeYear": "92.05%",
+    "uptime": "92.26%",
+    "uptimeDay": "92.26%",
+    "uptimeWeek": "92.26%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "92.26%",
     "time": 1753,
     "timeDay": 1753,
     "timeWeek": 1753,
@@ -847,11 +847,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.telemia.it.ico",
     "slug": "telemia",
     "status": "up",
-    "uptime": "92.04%",
-    "uptimeDay": "92.04%",
-    "uptimeWeek": "92.04%",
-    "uptimeMonth": "92.04%",
-    "uptimeYear": "92.04%",
+    "uptime": "92.24%",
+    "uptimeDay": "92.24%",
+    "uptimeWeek": "92.24%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "92.24%",
     "time": 3151,
     "timeDay": 3151,
     "timeWeek": 3151,
@@ -1047,11 +1047,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.veryinutilpeople.it.ico",
     "slug": "very-inutil-people",
     "status": "up",
-    "uptime": "92.04%",
-    "uptimeDay": "92.04%",
-    "uptimeWeek": "92.04%",
-    "uptimeMonth": "92.04%",
-    "uptimeYear": "92.04%",
+    "uptime": "92.24%",
+    "uptimeDay": "92.24%",
+    "uptimeWeek": "92.24%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "92.24%",
     "time": 1212,
     "timeDay": 1212,
     "timeWeek": 1212,
@@ -1067,11 +1067,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ilnapolionline.com.ico",
     "slug": "il-napoli-on-line",
     "status": "up",
-    "uptime": "92.03%",
-    "uptimeDay": "92.03%",
-    "uptimeWeek": "92.03%",
-    "uptimeMonth": "92.03%",
-    "uptimeYear": "92.03%",
+    "uptime": "92.23%",
+    "uptimeDay": "92.23%",
+    "uptimeWeek": "92.23%",
+    "uptimeMonth": "92.23%",
+    "uptimeYear": "92.23%",
     "time": 419,
     "timeDay": 419,
     "timeWeek": 419,
@@ -1393,11 +1393,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/latorre1905.it.ico",
     "slug": "la-torre-1905",
     "status": "up",
-    "uptime": "93.58%",
-    "uptimeDay": "93.58%",
-    "uptimeWeek": "93.58%",
-    "uptimeMonth": "93.58%",
-    "uptimeYear": "93.58%",
+    "uptime": "93.75%",
+    "uptimeDay": "93.75%",
+    "uptimeWeek": "93.75%",
+    "uptimeMonth": "93.75%",
+    "uptimeYear": "93.75%",
     "time": 2647,
     "timeDay": 2647,
     "timeWeek": 2647,
@@ -1514,7 +1514,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-05": 446
+      "2023-01-05": 458
     }
   },
   {
@@ -1588,7 +1588,7 @@
     "timeMonth": 1096,
     "timeYear": 1096,
     "dailyMinutesDown": {
-      "2023-01-05": 446
+      "2023-01-05": 458
     }
   },
   {
@@ -1651,11 +1651,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.romaforever.it.ico",
     "slug": "roma-forever",
     "status": "up",
-    "uptime": "91.97%",
-    "uptimeDay": "91.97%",
-    "uptimeWeek": "91.97%",
-    "uptimeMonth": "91.97%",
-    "uptimeYear": "91.97%",
+    "uptime": "92.18%",
+    "uptimeDay": "92.18%",
+    "uptimeWeek": "92.18%",
+    "uptimeMonth": "92.18%",
+    "uptimeYear": "92.18%",
     "time": 1639,
     "timeDay": 1639,
     "timeWeek": 1639,
@@ -1743,18 +1743,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilfaroonline.it.ico",
     "slug": "il-faro-online",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 2724,
     "timeDay": 2724,
     "timeWeek": 2724,
     "timeMonth": 2724,
     "timeYear": 2724,
     "dailyMinutesDown": {
-      "2023-01-05": 445
+      "2023-01-05": 457
     }
   },
   {
@@ -1889,11 +1889,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iconameteo.it.ico",
     "slug": "icona-meteo",
     "status": "up",
-    "uptime": "92.00%",
-    "uptimeDay": "92.00%",
-    "uptimeWeek": "92.00%",
-    "uptimeMonth": "92.00%",
-    "uptimeYear": "92.00%",
+    "uptime": "92.21%",
+    "uptimeDay": "92.21%",
+    "uptimeWeek": "92.21%",
+    "uptimeMonth": "92.21%",
+    "uptimeYear": "92.21%",
     "time": 1524,
     "timeDay": 1524,
     "timeWeek": 1524,
@@ -1927,11 +1927,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iconaclima.it.ico",
     "slug": "icona-clima",
     "status": "up",
-    "uptime": "92.03%",
-    "uptimeDay": "92.03%",
-    "uptimeWeek": "92.03%",
-    "uptimeMonth": "92.03%",
-    "uptimeYear": "92.03%",
+    "uptime": "92.24%",
+    "uptimeDay": "92.24%",
+    "uptimeWeek": "92.24%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "92.24%",
     "time": 4948,
     "timeDay": 4948,
     "timeWeek": 4948,
@@ -1976,7 +1976,7 @@
     "timeMonth": 1394,
     "timeYear": 1394,
     "dailyMinutesDown": {
-      "2023-01-05": 444
+      "2023-01-05": 456
     }
   },
   {
@@ -2003,11 +2003,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mareonline.it.ico",
     "slug": "mareonline",
     "status": "up",
-    "uptime": "92.04%",
-    "uptimeDay": "92.04%",
-    "uptimeWeek": "92.04%",
-    "uptimeMonth": "92.04%",
-    "uptimeYear": "92.04%",
+    "uptime": "92.24%",
+    "uptimeDay": "92.24%",
+    "uptimeWeek": "92.24%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "92.24%",
     "time": 2014,
     "timeDay": 2014,
     "timeWeek": 2014,
@@ -2070,7 +2070,7 @@
     "timeMonth": 1268,
     "timeYear": 1268,
     "dailyMinutesDown": {
-      "2023-01-05": 444
+      "2023-01-05": 456
     }
   },
   {
@@ -2126,7 +2126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-05": 444
+      "2023-01-05": 456
     }
   },
   {
