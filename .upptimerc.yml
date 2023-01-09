@@ -28,7 +28,7 @@ sites:
     url: https://rietilife.com/ads.txt
     __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TELE CLUB ITALIA
-    url: https://teleclubitalia.it/ads.txt
+    url: https://www.teleclubitalia.it/ads.txt
     __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: HOW TO DO FOR
     url: https://howtodofor.com/ads.txt
