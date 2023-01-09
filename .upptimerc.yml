@@ -4,8 +4,8 @@ repo: prjuptime # The name of this repository
 
 sites:
   - name: INTERNAPOLI
-    url: https://internapoli.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://internapoli.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: ITALIAFEED
     url: https://italiafeed.com
     __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
