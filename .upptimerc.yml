@@ -7,365 +7,365 @@ sites:
     url: https://internapoli.it/ads.txt
     __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: ITALIAFEED
-    url: https://italiafeed.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://italiafeed.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: OCCHIO NOTIZIE
-    url: https://occhionotizie.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://occhionotizie.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: NAPOLI PIU
-    url: https://napolipiu.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://napolipiu.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: STRILL
-    url: https://strill.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://strill.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: EMOZIONI FEED
-    url: https://emozionifeed.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://emozionifeed.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: LO STADIUM
-    url: https://lostadium.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://lostadium.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: RIETILIFE
-    url: https://rietilife.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://rietilife.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TELE CLUB ITALIA
-    url: https://teleclubitalia.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://teleclubitalia.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: HOW TO DO FOR
-    url: https://howtodofor.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://howtodofor.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: GIUSEPPE PORRO
-    url: https://giuseppeporro.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://giuseppeporro.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: MONDO TV 24
-    url: https://mondotv24.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://mondotv24.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: ZAZOOM
-    url: https://zazoom.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://zazoom.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: RADIO ROSSO NERA
-    url: https://radiorossonera.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://radiorossonera.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: MILAN WORLD
-    url: https://milanworld.net
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://milanworld.net/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TUTTO CALCIATORI
-    url: https://tuttocalciatori.net
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://tuttocalciatori.net/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: LIFELIVE
-    url: https://lifelive.eu
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://lifelive.eu/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: INTER-NEWS
-    url: https://inter-news.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://inter-news.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: IL DISPACCIO
-    url: https://ildispaccio.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://ildispaccio.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: VENETOGOL
-    url: https://venetogol.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://venetogol.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: FORZA AZZURRI
-    url: https://forzazzurri.net
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://forzazzurri.net/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: E LO SAPEVI CHE
-    url: https://elosapeviche.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://elosapeviche.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: 1 FEED
-    url: https://1feed.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://1feed.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: WIKITESTI
-    url: https://wikitesti.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://wikitesti.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: PASSIONECALCIO24
-    url: https://passionecalcio24.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://passionecalcio24.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: LA PRESSA
-    url: https://lapressa.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://lapressa.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: ECO DELLA LOCRIDE
-    url: https://ecodellalocride.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://ecodellalocride.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: IL GIARDINO DEGLI ILLUMINATI
-    url: https://ilgiardinodegliilluminati.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://ilgiardinodegliilluminati.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: YOUTVRS
-    url: https://youtvrs.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://youtvrs.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: FRIULIGOL
-    url: https://www.friuligol.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://www.friuligol.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TORRESETTE
-    url: https://torresette.news
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://torresette.news/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: METEO PUGLIA
     url: https://meteopuglia.org
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: GAZZETTA JONICA
-    url: https://gazzettajonica.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://gazzettajonica.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: LO STRILLONE NEWS
-    url: https://lostrillonenews.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://lostrillonenews.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: XQUIZ
-    url: https://xquiz.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://xquiz.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: IL PRIMATO NAZIONALE
-    url: https://ilprimatonazionale.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://ilprimatonazionale.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: DOODLES
-    url: https://doodles.link
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://doodles.link/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: MONTI PRENSTINI
-    url: https://montiprenestini.info
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://montiprenestini.info/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TERMOMETRO POLITICO
-    url: https://termometropolitico.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://termometropolitico.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TOSCANAGOL
-    url: https://toscanagol.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://toscanagol.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TESTI TRADOTTI WIKITESTI
-    url: https://testitradotti.wikitesti.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://testitradotti.wikitesti.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: COME RISPARMIO SOLDI
-    url: https://comerisparmiosoldi.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://comerisparmiosoldi.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: H24 NOTIZIE
-    url: https://www.h24notizie.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://www.h24notizie.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: NAPOLITAN
-    url: https://napolitan.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://napolitan.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: LETTERA EMME
-    url: https://letteraemme.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://letteraemme.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: GOLDWEBTV
-    url: https://www.goldwebtv.it/video-caserta-virus-sinciziale-ha-riempito-reparto-pediatria-ospedale-parla-il-primario-prof-nunziata.html
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://www.goldwebtv.it/ads.txt/video-caserta-virus-sinciziale-ha-riempito-reparto-pediatria-ospedale-parla-il-primario-prof-nunziata.html
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TELEMIA
-    url: https://www.telemia.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://www.telemia.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: GIOCOINDIE
-    url: https://giocoindie.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://giocoindie.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: MILAN NIGHT
-    url: https://milannight.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://milannight.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: B 1897
-    url: https://b1897.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://b1897.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: IL GIORNALE DI TRANI
-    url: https://ilgiornaleditrani.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://ilgiornaleditrani.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: NUOVO SUD
-    url: https://nuovosud.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://nuovosud.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: RASSEGNE ITALIA
     url: https://rassegneitalia.info
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: SARDEGNA REPORTER
-    url: https://sardegnareporter.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://sardegnareporter.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: STYLO24
-    url: https://stylo24.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://stylo24.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: MESSINA SPORTIVA
-    url: https://messinasportiva.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://messinasportiva.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: EMILIAGOL
-    url: https://emiliagol.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://emiliagol.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: VERY INUTIL PEOPLE
-    url: https://www.veryinutilpeople.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://www.veryinutilpeople.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: IL NAPOLI ON LINE
-    url: https://www.ilnapolionline.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://www.ilnapolionline.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: INFORMA-PRESS
-    url: https://informa-press.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://informa-press.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: GROSSETOSPORT
-    url: https://grossetosport.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://grossetosport.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: PROVE INVALSI
-    url: https://proveinvalsi.net
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://proveinvalsi.net/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TOSCANA OGGI
-    url: https://toscanaoggi.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://toscanaoggi.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TRA GENIO E FOLLIA
-    url: https://tragenioefollia.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://tragenioefollia.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: NORD MILANO 24
-    url: https://nordmilano24.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://nordmilano24.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: BONCULTURE
-    url: https://bonculture.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://bonculture.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TUTTO REGGIANA
-    url: https://tuttoreggiana.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://tuttoreggiana.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: LAZIO NASCOSTO
-    url: https://lazionascosto.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://lazionascosto.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: SENIGALLIA NOTIZIE
-    url: https://senigallianotizie.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://senigallianotizie.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: FASHION TIMES
-    url: https://fashiontimes.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://fashiontimes.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: ERRE EMME NEWS
-    url: https://erreemmenews.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://erreemmenews.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: VIAGGIAMO
-    url: https://viaggiamo.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://viaggiamo.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: LA NOTIZIA SPORTIVA
-    url: https://lanotiziasportiva.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://lanotiziasportiva.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: STADIO RADIO
-    url: https://stadioradio.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://stadioradio.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: GAZZETTA DELLA SPEZIA
-    url: https://gazzettadellaspezia.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://gazzettadellaspezia.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: LO STATALE JONICO
-    url: https://lostatalejonico.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://lostatalejonico.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: LA TORRE 1905
-    url: https://latorre1905.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://latorre1905.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: SIKILY NEWS
-    url: https://sikilynews.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://sikilynews.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: FUT18 ITALIA
-    url: https://fut18italia.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://fut18italia.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: SICILIANS
-    url: https://sicilians.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://sicilians.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: vastoweb
-    url: https://vastoweb.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://vastoweb.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: termolionline
-    url: https://termolionline.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://termolionline.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TERNILIFE
-    url: https://www.ternilife.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://www.ternilife.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: SPORTDELSUD
-    url: https://sportdelsud.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://sportdelsud.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: ITALIALIFE24
-    url: https://italialife24.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://italialife24.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: ITAGNOL
-    url: https://itagnol.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://itagnol.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: LA MILANO
-    url: https://lamilano.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://lamilano.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: MILANO DA VEDERE
-    url: https://milanodavedere.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://milanodavedere.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: SENZA LINEA
-    url: https://senzalinea.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://senzalinea.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: ZERKALO SPETTACOLO
-    url: https://zerkalospettacolo.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://zerkalospettacolo.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: ROMA FOREVER
-    url: https://www.romaforever.it/news/?id=117085
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://www.romaforever.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: CASA MAGAZINE
-    url: https://casamagazine.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://casamagazine.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: SETTE NEWS
-    url: https://settenews.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://settenews.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: SPORT MAGAZINE
-    url: https://sportmagazine.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://sportmagazine.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TECNOGLAXY
-    url: https://tecnogalaxy.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://tecnogalaxy.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: IL FARO ONLINE
-    url: https://ilfaroonline.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://ilfaroonline.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: MAMME MAGAZINE
-    url: https://mammemagazine.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://mammemagazine.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: GENIUS WELLNESS
-    url: https://geniuswellness.net
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://geniuswellness.net/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: IL COINQUILINO DI EMME
-    url: https://ilcoinquilinodiemme.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://ilcoinquilinodiemme.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: BLOG SOCIAL TV
-    url: https://blogsocialtv.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://blogsocialtv.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: FUORI TRAIETTORIA
-    url: https://fuoritraiettoria.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://fuoritraiettoria.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: casa napoli
-    url: https://casanapoli.net
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://casanapoli.net/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: NEWGO
-    url: https://newsgo.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://newsgo.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: ICONA METEO
-    url: https://www.iconameteo.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://www.iconameteo.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: MARCHE IN GOL
-    url: https://marcheingol.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://marcheingol.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: ICONA CLIMA
-    url: https://www.iconaclima.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
-  - name: VOCE.CO.ìM.VE
-    url: https://voce.com.ve
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://www.iconaclima.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
+  - name: VOCE.COM.VE
+    url: https://lavoceditalia.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TUTTO SPAL
-    url: https://www.tuttospal.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://www.tuttospal.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: VALLE DEI SOGNI
-    url: https://valledeisogni.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://valledeisogni.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: MAREONLINE
-    url: https://www.mareonline.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://www.mareonline.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: ECODELCINEMA
-    url: https://ecodelcinema.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://ecodelcinema.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: INTERPRETA SOGNO
-    url: https://interpretasogno.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://interpretasogno.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TUTTO MANTOVA
-    url: https://www.tuttomantova.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://www.tuttomantova.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: GENIUS HOROSCOPE
-    url: https://geniushoroscope.com
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://geniushoroscope.com/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: NOVECENTO LETTERARIO
-    url: https://900letterario.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://900letterario.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: CAMBIO CLIMA
-    url: https://cambioclima.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://cambioclima.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: SYRUS
-    url: https://syrus.academy
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://syrus.academy/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: BAZZING
-    url: https://bazzing.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://bazzing.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: METEO CONENNA
-    url: https://meteoconenna.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://meteoconenna.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: MAFREGATE
-    url: https://mafregate.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://mafregate.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: ACCADEORA
-    url: https://accadeora.it
-    __dangerous__body_down_if_text_missing: "//d27gtglsu4f4y2.cloudfront.net/prebid_hb_"
+    url: https://accadeora.it/ads.txt
+    __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: LA NOTIZIA - ADS.TXT
     url: https://www.la-notizia.net/ads.txt
     __dangerous__body_down_if_text_missing: "projectadv.it,"
@@ -375,15 +375,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: prjadv.github.io/UpTime
   baseUrl: /prjuptime
-  logoUrl: https://test.adspro.it/wp-content/uploads/2019/05/cropped-cropped-logo-prj.png
+  logoUrl: https://test.adspro.it/ads.txt/wp-content/uploads/2019/05/cropped-cropped-logo-prj.png
   name: Prj UpTime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/ads.txt/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/ads.txt/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/ads.txt/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
