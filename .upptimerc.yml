@@ -97,7 +97,7 @@ sites:
     url: https://torresette.news/ads.txt
     __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: METEO PUGLIA
-    url: https://meteopuglia.org
+    url: https://meteopuglia.org/ads.txt
     __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: GAZZETTA JONICA
     url: https://gazzettajonica.it/ads.txt
@@ -130,7 +130,7 @@ sites:
     url: https://comerisparmiosoldi.it/ads.txt
     __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: H24 NOTIZIE
-    url: https://www.h24notizie.it/ads.txt
+    url: https://www.h24notizie.com/ads.txt
     __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: NAPOLITAN
     url: https://napolitan.it/ads.txt
@@ -139,7 +139,7 @@ sites:
     url: https://letteraemme.it/ads.txt
     __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: GOLDWEBTV
-    url: https://www.goldwebtv.it/ads.txt/video-caserta-virus-sinciziale-ha-riempito-reparto-pediatria-ospedale-parla-il-primario-prof-nunziata.html
+    url: https://www.goldwebtv.it/ads.txt
     __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TELEMIA
     url: https://www.telemia.it/ads.txt
@@ -160,7 +160,7 @@ sites:
     url: https://nuovosud.it/ads.txt
     __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: RASSEGNE ITALIA
-    url: https://rassegneitalia.info
+    url: https://rassegneitalia.info/ads.txt
     __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: SARDEGNA REPORTER
     url: https://sardegnareporter.it/ads.txt
@@ -250,7 +250,7 @@ sites:
     url: https://termolionline.it/ads.txt
     __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: TERNILIFE
-    url: https://www.ternilife.it/ads.txt
+    url: https://www.ternilife.com/ads.txt
     __dangerous__body_down_if_text_missing: "projectadv.it,"
   - name: SPORTDELSUD
     url: https://sportdelsud.it/ads.txt
@@ -375,7 +375,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: prjadv.github.io/UpTime
   baseUrl: /prjuptime
-  logoUrl: https://test.adspro.it/ads.txt/wp-content/uploads/2019/05/cropped-cropped-logo-prj.png
+  logoUrl: https://test.adspro.it/wp-content/uploads/2019/05/cropped-cropped-logo-prj.png
   name: Prj UpTime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/ads.txt/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/ads.txt/upptime/upptime)
@@ -383,7 +383,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/ads.txt/$OWNER/$REPO
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
