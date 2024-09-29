@@ -53,11 +53,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/occhionotizie.it.ico",
     "slug": "occhio-notizie",
     "status": "up",
-    "uptime": "28.19%",
+    "uptime": "28.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "10.84%",
+    "uptimeYear": "10.86%",
     "time": 739,
     "timeDay": 1325,
     "timeWeek": 1052,
@@ -392,8 +392,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -466,18 +465,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/strill.it.ico",
     "slug": "strill",
     "status": "down",
-    "uptime": "74.85%",
+    "uptime": "74.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.75%",
+    "uptimeYear": "56.73%",
     "time": 1179,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1217,
     "dailyMinutesDown": {
-      "2024-09-28": 1420,
+      "2024-09-29": 107,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -732,7 +732,8 @@
     "timeMonth": 145,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2024-09-28": 1421,
+      "2024-09-29": 107,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -1095,8 +1096,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -1125,18 +1125,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/giuseppeporro.it.ico",
     "slug": "giuseppe-porro",
     "status": "down",
-    "uptime": "80.56%",
+    "uptime": "80.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "66.32%",
+    "uptimeYear": "66.30%",
     "time": 969,
     "timeDay": 1372,
     "timeWeek": 845,
     "timeMonth": 721,
     "timeYear": 932,
     "dailyMinutesDown": {
-      "2024-09-28": 1421,
+      "2024-09-29": 107,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -1286,7 +1287,8 @@
     "timeMonth": 1168,
     "timeYear": 1094,
     "dailyMinutesDown": {
-      "2024-09-28": 1421,
+      "2024-09-29": 107,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -1649,8 +1651,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -1670,7 +1671,8 @@
     "timeMonth": 1371,
     "timeYear": 1052,
     "dailyMinutesDown": {
-      "2024-09-28": 1421,
+      "2024-09-29": 107,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -2033,8 +2035,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -2043,11 +2044,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/radiorossonera.it.ico",
     "slug": "radio-rosso-nera",
     "status": "up",
-    "uptime": "40.50%",
+    "uptime": "40.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "48.82%",
+    "uptimeYear": "48.85%",
     "time": 719,
     "timeDay": 1442,
     "timeWeek": 886,
@@ -2295,8 +2296,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -2861,7 +2861,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/youtvrs.it.ico",
     "slug": "youtvrs",
     "status": "down",
-    "uptime": "24.53%",
+    "uptime": "24.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2872,7 +2872,8 @@
     "timeMonth": 1116,
     "timeYear": 1023,
     "dailyMinutesDown": {
-      "2024-09-28": 1422,
+      "2024-09-29": 108,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -3235,8 +3236,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -3449,7 +3449,8 @@
     "timeMonth": 1344,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2024-09-28": 1422,
+      "2024-09-29": 109,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -3812,8 +3813,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -3966,18 +3966,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/termometropolitico.it.ico",
     "slug": "termometro-politico",
     "status": "down",
-    "uptime": "50.83%",
+    "uptime": "50.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "14.85%",
+    "uptimeYear": "14.83%",
     "time": 698,
     "timeDay": 996,
     "timeWeek": 712,
     "timeMonth": 654,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2024-09-28": 1423,
+      "2024-09-29": 109,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -4366,18 +4367,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/testitradotti.wikitesti.com.ico",
     "slug": "testi-tradotti-wikitesti",
     "status": "up",
-    "uptime": "79.42%",
+    "uptime": "79.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.34%",
+    "uptimeYear": "64.32%",
     "time": 636,
     "timeDay": 743,
     "timeWeek": 659,
     "timeMonth": 615,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2024-09-28": 1423,
+      "2024-09-29": 109,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -4593,7 +4595,8 @@
     "timeMonth": 2403,
     "timeYear": 2906,
     "dailyMinutesDown": {
-      "2024-09-28": 1423,
+      "2024-09-29": 109,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -4956,8 +4959,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -5013,18 +5015,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/giocoindie.it.ico",
     "slug": "giocoindie",
     "status": "down",
-    "uptime": "46.87%",
+    "uptime": "46.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.29%",
+    "uptimeYear": "21.27%",
     "time": 1022,
     "timeDay": 1333,
     "timeWeek": 983,
     "timeMonth": 1079,
     "timeYear": 1113,
     "dailyMinutesDown": {
-      "2024-09-28": 1423,
+      "2024-09-29": 109,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -5360,7 +5363,8 @@
     "timeMonth": 704,
     "timeYear": 1002,
     "dailyMinutesDown": {
-      "2024-09-28": 1423,
+      "2024-09-29": 109,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -5723,8 +5727,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -5733,18 +5736,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilgiornaleditrani.it.ico",
     "slug": "il-giornale-di-trani",
     "status": "down",
-    "uptime": "44.11%",
+    "uptime": "44.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.18%",
+    "uptimeYear": "3.16%",
     "time": 1406,
     "timeDay": 2165,
     "timeWeek": 1272,
     "timeMonth": 1025,
     "timeYear": 1309,
     "dailyMinutesDown": {
-      "2024-09-28": 1423,
+      "2024-09-29": 109,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -6158,7 +6162,8 @@
     "timeMonth": 856,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2024-09-28": 1423,
+      "2024-09-29": 110,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -6521,8 +6526,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -6625,18 +6629,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stylo24.it.ico",
     "slug": "stylo-24",
     "status": "down",
-    "uptime": "67.60%",
+    "uptime": "67.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.54%",
+    "uptimeYear": "52.52%",
     "time": 1425,
     "timeDay": 2104,
     "timeWeek": 1640,
     "timeMonth": 1519,
     "timeYear": 1387,
     "dailyMinutesDown": {
-      "2024-09-28": 1423,
+      "2024-09-29": 110,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -7095,7 +7100,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/toscanaoggi.it.ico",
     "slug": "toscana-oggi",
     "status": "up",
-    "uptime": "31.66%",
+    "uptime": "31.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.15%",
@@ -7139,18 +7144,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tragenioefollia.com.ico",
     "slug": "tra-genio-e-follia",
     "status": "down",
-    "uptime": "77.16%",
+    "uptime": "77.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.50%",
+    "uptimeYear": "61.48%",
     "time": 693,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2024-09-28": 1424,
+      "2024-09-29": 110,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -7393,8 +7399,7 @@
       "2024-06-30": 109,
       "2024-04-01": 60,
       "2023-11-17": 145,
-      "2023-10-21": 41,
-      "2023-09-30": 311
+      "2023-10-21": 41
     }
   },
   {
@@ -7585,18 +7590,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lanotiziasportiva.com.ico",
     "slug": "la-notizia-sportiva",
     "status": "down",
-    "uptime": "81.82%",
+    "uptime": "81.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.50%",
+    "uptimeYear": "70.48%",
     "time": 1492,
     "timeDay": 1663,
     "timeWeek": 1400,
     "timeMonth": 1409,
     "timeYear": 1484,
     "dailyMinutesDown": {
-      "2024-09-28": 1425,
+      "2024-09-29": 111,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -7893,7 +7899,8 @@
     "timeMonth": 706,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2024-09-28": 1425,
+      "2024-09-29": 111,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -8256,8 +8263,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -8277,7 +8283,8 @@
     "timeMonth": 796,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2024-09-28": 1425,
+      "2024-09-29": 111,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -8640,8 +8647,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -8668,18 +8674,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sportdelsud.it.ico",
     "slug": "sportdelsud",
     "status": "down",
-    "uptime": "62.26%",
+    "uptime": "62.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.75%",
+    "uptimeYear": "34.72%",
     "time": 859,
     "timeDay": 894,
     "timeWeek": 717,
     "timeMonth": 745,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2024-09-28": 1425,
+      "2024-09-29": 111,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -9005,18 +9012,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/itagnol.com.ico",
     "slug": "itagnol",
     "status": "down",
-    "uptime": "79.71%",
+    "uptime": "79.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "64.85%",
+    "uptimeYear": "64.83%",
     "time": 749,
     "timeDay": 878,
     "timeWeek": 850,
     "timeMonth": 817,
     "timeYear": 741,
     "dailyMinutesDown": {
-      "2024-09-28": 1425,
+      "2024-09-29": 112,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -9242,14 +9250,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.17%",
+    "uptimeYear": "35.14%",
     "time": 1449,
     "timeDay": 2728,
     "timeWeek": 1591,
     "timeMonth": 1394,
     "timeYear": 1419,
     "dailyMinutesDown": {
-      "2024-09-28": 1426,
+      "2024-09-29": 112,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -9520,18 +9529,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.romaforever.it.ico",
     "slug": "roma-forever",
     "status": "down",
-    "uptime": "68.81%",
+    "uptime": "68.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.99%",
+    "uptimeYear": "45.97%",
     "time": 825,
     "timeDay": 1693,
     "timeWeek": 1055,
     "timeMonth": 980,
     "timeYear": 778,
     "dailyMinutesDown": {
-      "2024-09-28": 1426,
+      "2024-09-29": 112,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -9857,7 +9867,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tecnogalaxy.it.ico",
     "slug": "tecnoglaxy",
     "status": "down",
-    "uptime": "36.29%",
+    "uptime": "36.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -9868,7 +9878,8 @@
     "timeMonth": 224,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-09-28": 1426,
+      "2024-09-29": 112,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -10231,8 +10242,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -10252,7 +10262,8 @@
     "timeMonth": 1950,
     "timeYear": 1653,
     "dailyMinutesDown": {
-      "2024-09-28": 1426,
+      "2024-09-29": 112,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -10615,8 +10626,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -10636,7 +10646,8 @@
     "timeMonth": 765,
     "timeYear": 1793,
     "dailyMinutesDown": {
-      "2024-09-28": 1426,
+      "2024-09-29": 112,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -10999,8 +11010,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -11009,18 +11019,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/geniuswellness.net.ico",
     "slug": "genius-wellness",
     "status": "down",
-    "uptime": "77.77%",
+    "uptime": "77.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.50%",
+    "uptimeYear": "61.47%",
     "time": 692,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2024-09-28": 1426,
+      "2024-09-29": 112,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -11381,18 +11392,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/newsgo.it.ico",
     "slug": "newgo",
     "status": "down",
-    "uptime": "73.32%",
+    "uptime": "73.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "53.78%",
+    "uptimeYear": "53.75%",
     "time": 869,
     "timeDay": 783,
     "timeWeek": 705,
     "timeMonth": 830,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2024-09-28": 1426,
+      "2024-09-29": 113,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -11601,18 +11613,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/marcheingol.it.ico",
     "slug": "marche-in-gol",
     "status": "down",
-    "uptime": "70.45%",
+    "uptime": "70.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "48.89%",
+    "uptimeYear": "48.87%",
     "time": 2538,
     "timeDay": 3564,
     "timeWeek": 2359,
     "timeMonth": 2322,
     "timeYear": 2422,
     "dailyMinutesDown": {
-      "2024-09-28": 1427,
+      "2024-09-29": 113,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -11879,18 +11892,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/valledeisogni.it.ico",
     "slug": "valle-dei-sogni",
     "status": "down",
-    "uptime": "99.62%",
+    "uptime": "99.60%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.44%",
-    "uptimeMonth": "92.97%",
-    "uptimeYear": "99.38%",
+    "uptimeWeek": "68.18%",
+    "uptimeMonth": "92.68%",
+    "uptimeYear": "99.36%",
     "time": 822,
     "timeDay": 0,
     "timeWeek": 781,
     "timeMonth": 799,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2024-09-28": 1427,
+      "2024-09-29": 113,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 214,
       "2024-07-30": 40,
@@ -11966,7 +11980,8 @@
     "timeMonth": 922,
     "timeYear": 865,
     "dailyMinutesDown": {
-      "2024-09-28": 1427,
+      "2024-09-29": 113,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -12329,8 +12344,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -12339,7 +12353,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/interpretasogno.com.ico",
     "slug": "interpreta-sogno",
     "status": "down",
-    "uptime": "38.72%",
+    "uptime": "38.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -12350,7 +12364,8 @@
     "timeMonth": 692,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2024-09-28": 1427,
+      "2024-09-29": 113,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -12713,8 +12728,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -12741,18 +12755,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/geniushoroscope.com.ico",
     "slug": "genius-horoscope",
     "status": "down",
-    "uptime": "75.14%",
+    "uptime": "75.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "57.06%",
+    "uptimeYear": "57.03%",
     "time": 609,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2024-09-28": 1427,
+      "2024-09-29": 113,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -12969,7 +12984,8 @@
     "timeMonth": 1295,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2024-09-28": 1427,
+      "2024-09-29": 113,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -13332,8 +13348,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -13342,18 +13357,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cambioclima.it.ico",
     "slug": "cambio-clima",
     "status": "down",
-    "uptime": "59.81%",
+    "uptime": "59.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.60%",
+    "uptimeYear": "30.57%",
     "time": 1235,
     "timeDay": 2156,
     "timeWeek": 1812,
     "timeMonth": 1777,
     "timeYear": 1380,
     "dailyMinutesDown": {
-      "2024-09-28": 1427,
+      "2024-09-29": 113,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -13615,7 +13631,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/syrus.academy.ico",
     "slug": "syrus",
     "status": "down",
-    "uptime": "39.35%",
+    "uptime": "39.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -13626,7 +13642,8 @@
     "timeMonth": 351,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2024-09-28": 1427,
+      "2024-09-29": 113,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -13989,8 +14006,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -14072,18 +14088,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mafregate.it.ico",
     "slug": "mafregate",
     "status": "down",
-    "uptime": "68.31%",
+    "uptime": "68.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.48%",
+    "uptimeYear": "45.45%",
     "time": 1398,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1362,
     "dailyMinutesDown": {
-      "2024-09-28": 1427,
+      "2024-09-29": 114,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -14302,7 +14319,8 @@
     "timeMonth": 1818,
     "timeYear": 2654,
     "dailyMinutesDown": {
-      "2024-09-28": 1427,
+      "2024-09-29": 114,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
@@ -14665,8 +14683,7 @@
       "2023-10-04": 1440,
       "2023-10-03": 1440,
       "2023-10-02": 1440,
-      "2023-10-01": 1440,
-      "2023-09-30": 1440
+      "2023-10-01": 1440
     }
   },
   {
@@ -14675,18 +14692,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.la-notizia.net.ico",
     "slug": "la-notizia-ads-txt",
     "status": "down",
-    "uptime": "78.65%",
+    "uptime": "78.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.90%",
+    "uptimeYear": "63.87%",
     "time": 740,
     "timeDay": 888,
     "timeWeek": 652,
     "timeMonth": 619,
     "timeYear": 732,
     "dailyMinutesDown": {
-      "2024-09-28": 1427,
+      "2024-09-29": 114,
+      "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
